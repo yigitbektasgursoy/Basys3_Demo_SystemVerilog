@@ -32,7 +32,7 @@ The project implements a UART module for serial communication, along with a digi
 
 ## Demo Video
 
-
+https://www.linkedin.com/posts/yigit-bektas-gursoy_koray-karakurtun-fpga-e%C4%9Fitim-serisi-sayesinde-activity-7261362850906980352-LDuW?utm_source=share&utm_medium=member_desktop
 
 ## Contributing
 
