@@ -18,8 +18,8 @@
 // Project Name:
 // Target Devices: 
 // Tool Versions:
-// Description: Counts from 0000 to 1903 on a 4-digit seven-segment display.
-//              When the count reaches 1903, the LED display flashes.
+// Description: Counts from 0000 to 1881 on a 4-digit seven-segment display.
+//              When the count reaches 1881, the LED display flashes.
 //
 // Dependencies:
 //
